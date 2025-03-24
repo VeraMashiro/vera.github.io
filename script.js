@@ -79,5 +79,5 @@ function handleNoClick() {
 }
 
 function handleYesClick() {
-    window.location.href = "mewing.html";
+    window.location.href = "test_Web.html";
 }
